@@ -52,5 +52,5 @@ The Random Forest model achieved better performance compared to Logistic Regress
 ---
 
 ## 📂 Author
-Saniya Shaikh
+**Saniya Shaikh**
 Aspiring Data Scientist | Python | SQL | Machine Learning
